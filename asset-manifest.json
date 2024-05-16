@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Wookee-quiz/static/css/main.82bdc0ae.css",
-    "main.js": "/Wookee-quiz/static/js/main.1c8f4e6f.js",
+    "main.js": "/Wookee-quiz/static/js/main.77d1831b.js",
     "index.html": "/Wookee-quiz/index.html",
     "main.82bdc0ae.css.map": "/Wookee-quiz/static/css/main.82bdc0ae.css.map",
-    "main.1c8f4e6f.js.map": "/Wookee-quiz/static/js/main.1c8f4e6f.js.map"
+    "main.77d1831b.js.map": "/Wookee-quiz/static/js/main.77d1831b.js.map"
   },
   "entrypoints": [
     "static/css/main.82bdc0ae.css",
-    "static/js/main.1c8f4e6f.js"
+    "static/js/main.77d1831b.js"
   ]
 }
