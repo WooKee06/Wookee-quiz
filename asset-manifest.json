@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WooKee06/Wookee-quiz.git/static/css/main.82bdc0ae.css",
+    "main.js": "/WooKee06/Wookee-quiz.git/static/js/main.1c8f4e6f.js",
+    "index.html": "/WooKee06/Wookee-quiz.git/index.html",
+    "main.82bdc0ae.css.map": "/WooKee06/Wookee-quiz.git/static/css/main.82bdc0ae.css.map",
+    "main.1c8f4e6f.js.map": "/WooKee06/Wookee-quiz.git/static/js/main.1c8f4e6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bdc0ae.css",
+    "static/js/main.1c8f4e6f.js"
+  ]
+}
