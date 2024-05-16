@@ -421,7 +421,7 @@ function Result({ correct }) {
 			<h2>
 				Вы отгадали {correct} ответа из {questions.length}
 			</h2>
-			<a href='/'>
+			<a href='https://wookee06.github.io/Wookee-quiz/'>
 				<button className='resilt-btn'>Попробовать снова</button>
 			</a>
 		</div>
